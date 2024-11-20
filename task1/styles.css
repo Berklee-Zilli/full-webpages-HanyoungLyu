@@ -1,0 +1,33 @@
+<a href="using-js-to-make-changes.html" alt="Link to using-js-to-make-changes">Link to using-js-to-make-changes</a>
+
+
+
+p {
+    font-family: 'Arial', serif;
+    font-size: 14px;
+    font-weight: Light;
+    color: #423737;
+}
+
+h1{
+    font-family: 'Arial', serif;
+    color: black
+}
+
+h2 {
+    font-family: 'Arial', serif;
+    font-size: 15px;
+    font-weight: Bold;
+    color: yellow;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: black;
+}
+
+header {
+    background-color: blue;
+}
